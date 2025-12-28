@@ -7,7 +7,7 @@ The team wanted a low price alternative to tackle the issue of Roach infestation
 In order for these files to run, the following programs need to be downloaded in the RaspPi 4 on the virtual envirnoment:
 
 1. ElevenLabs
-" pip install playsound==1.2.2 "
+' " pip install playsound==1.2.2 "'
 " pip install elevenlabs "
 " npm install @elevenlabs/elevenlabs-js"
 
