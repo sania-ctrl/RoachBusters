@@ -1,0 +1,1 @@
+The labels that are extracted from the images annotated by the Gemini model, and is to be read out loud by the ElevenLabs model. We installed a speaker in our working model to facilitate the ElevenLabs model.
