@@ -18,3 +18,8 @@ pip install -U -q "google-genai>=1.16.0
 ```
 4. piCamera2
 Ususally this module would be pre installed within the raspberry pi
+
+# Stack
+Some of the tools that we had used in our build included the Raspberry Pi 4, a Raspbeery Pi Camera, a speaker with a filter, and an RF dectecting module. 
+
+# Pictures
